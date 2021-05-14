@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/new-soko/static/css/main.0c695a05.chunk.css",
-    "main.js": "/new-soko/static/js/main.9a526277.chunk.js",
-    "main.js.map": "/new-soko/static/js/main.9a526277.chunk.js.map",
+    "main.css": "/new-soko/static/css/main.f25af637.chunk.css",
+    "main.js": "/new-soko/static/js/main.bda2508c.chunk.js",
+    "main.js.map": "/new-soko/static/js/main.bda2508c.chunk.js.map",
     "runtime-main.js": "/new-soko/static/js/runtime-main.6b08889e.js",
     "runtime-main.js.map": "/new-soko/static/js/runtime-main.6b08889e.js.map",
-    "static/js/2.5228a28f.chunk.js": "/new-soko/static/js/2.5228a28f.chunk.js",
-    "static/js/2.5228a28f.chunk.js.map": "/new-soko/static/js/2.5228a28f.chunk.js.map",
+    "static/js/2.be4dd954.chunk.js": "/new-soko/static/js/2.be4dd954.chunk.js",
+    "static/js/2.be4dd954.chunk.js.map": "/new-soko/static/js/2.be4dd954.chunk.js.map",
     "index.html": "/new-soko/index.html",
-    "static/css/main.0c695a05.chunk.css.map": "/new-soko/static/css/main.0c695a05.chunk.css.map",
-    "static/js/2.5228a28f.chunk.js.LICENSE.txt": "/new-soko/static/js/2.5228a28f.chunk.js.LICENSE.txt",
+    "static/css/main.f25af637.chunk.css.map": "/new-soko/static/css/main.f25af637.chunk.css.map",
+    "static/js/2.be4dd954.chunk.js.LICENSE.txt": "/new-soko/static/js/2.be4dd954.chunk.js.LICENSE.txt",
     "static/media/logo.588fc5a7.jpg": "/new-soko/static/media/logo.588fc5a7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b08889e.js",
-    "static/js/2.5228a28f.chunk.js",
-    "static/css/main.0c695a05.chunk.css",
-    "static/js/main.9a526277.chunk.js"
+    "static/js/2.be4dd954.chunk.js",
+    "static/css/main.f25af637.chunk.css",
+    "static/js/main.bda2508c.chunk.js"
   ]
 }
